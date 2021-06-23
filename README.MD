@@ -9,6 +9,7 @@ Gamifying Memorization since 2021...
 - Node, Express, React, Redux, MongoDB
 - Jest, Supertest, React Testing Library
 
+```
 ├── README.MD
 ├── backend
 │   ├── Dockerfile
@@ -29,3 +30,4 @@ Gamifying Memorization since 2021...
 │   └── tests
 │       └── server.test.js
 └── docker-compose.yml
+```
